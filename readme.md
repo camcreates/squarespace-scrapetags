@@ -1,0 +1,1 @@
+Squarespace encourages using tags liberally but the interface makes it an absolute pain to actually manage and modify them. This lists them all out in the console to avoid having to scroll through the input field to see them.
