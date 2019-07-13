@@ -50,7 +50,7 @@ This approach allows you to save the script in the console so you don’t have t
 
 To use the script when saved in Sources:
 * Open the entry that you want to edit in Squarespace.
-* Open the Javascript Console.
+* Open the Javascript Console. Keep it open for as long as you'll be working on entries.
 * Go to the Sources tab.
 * Right click on the name of the snippet and click Run to use it. 
   <p align="center"><img src="https://github.com/camcreates/squarespace-scrapetags/blob/master/img/run-snippet.png" alt="Run snippet" width="75%"/></p> 
